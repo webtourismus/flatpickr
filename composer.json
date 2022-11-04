@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/flatpickr",
+    "description": "Mirror of https://www.npmjs.com/package/flatpickr as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://flatpickr.js.org/"
+}
